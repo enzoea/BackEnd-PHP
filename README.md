@@ -10,7 +10,7 @@ Os alunos podem seguir estes passos para usar este repositório:
 Clone o repositório em sua máquina local usando o seguinte comando:
 
 Navegue até o diretório do repositório:
-git clone https://github.com/seu-usuario/atividades-php.git
+git clone https://github.com/enzoea/BackEnd-PHP
 Dentro do diretório, os alunos encontrarão uma série de pastas, cada uma contendo uma atividade específica.
 cd atividades-php
 
