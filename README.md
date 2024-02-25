@@ -1,6 +1,8 @@
 # Atividades de PHP para Estudo
 Este repositório contém uma série de atividades de PHP destinadas ao estudo e prática da linguagem. Os alunos podem usar este repositório para realizar as atividades propostas e verificar as resoluções fornecidas.
 
+Para acessar ao material de estudo sobre PHP, acesse o PDF disposto neste Repositório, ou acesse: https://drive.google.com/file/d/1ztnSdo0O8jhF3JkEfpo_7rKdH12uwai2/view?usp=sharing
+
 # Sobre
 O objetivo deste repositório é fornecer uma seleção de atividades de PHP em ordem crescente de dificuldade. As atividades cobrem uma variedade de tópicos, desde conceitos básicos até tópicos mais avançados, permitindo que os alunos aprimorem suas habilidades em PHP de forma progressiva.
 
