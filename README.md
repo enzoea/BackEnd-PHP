@@ -39,7 +39,7 @@ Faça um programa PHP que calcule a média de um array de números.
 Escreva um programa PHP para calcular e imprimir a transposta de uma matriz.
 
 8- Métodos:
-Crie uma classe em PHP que represente um círculo. Implemente um método para calcular a área do círculo.
+Crie uma programa em PHP que receba o valor de uma circunferência de um círculo. Implemente um método para calcular a área do círculo.
 
 9- Estruturas condicionais (avançado):
 Faça um programa PHP que determine se um número é positivo, negativo ou zero.
