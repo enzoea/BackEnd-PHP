@@ -41,22 +41,22 @@ Escreva um programa PHP para calcular e imprimir a transposta de uma matriz.
 8- Métodos:
 Crie uma programa em PHP que receba o valor de uma circunferência de um círculo. Implemente um método para calcular a área do círculo.
 
-9- Estruturas condicionais (avançado):
+9- Estruturas condicionais:
 Faça um programa PHP que determine se um número é positivo, negativo ou zero.
 
-10- Repetição (avançado):
+10- Repetição:
 Escreva um programa PHP que imprima os primeiros 10 números da sequência de Fibonacci.
 
-11- Funções (avançado):
+11- Funções:
 Crie uma função em PHP que verifique se uma palavra é um palíndromo.
 
-12- Vetores (avançado):
+12- Vetores:
 Faça um programa PHP que encontre o segundo maior elemento em um array.
 
-13- Matrizes (avançado):
+13- Matrizes:
 Escreva um programa PHP que verifique se uma matriz é simétrica ou não.
 
-14- Métodos (avançado):
+14- Métodos:
 Crie uma classe em PHP que represente uma calculadora. Implemente métodos para realizar operações básicas como adição, subtração, multiplicação e divisão.
 
 # Como funciona:
