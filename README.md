@@ -57,7 +57,7 @@ Faça um programa PHP que encontre o segundo maior elemento em um array.
 Escreva um programa PHP que verifique se uma matriz é simétrica ou não.
 
 14- Métodos:
-Crie uma classe em PHP que represente uma calculadora. Implemente métodos para realizar operações básicas como adição, subtração, multiplicação e divisão.
+Crie um codigo PHP que represente uma calculadora. Implemente métodos para realizar operações básicas como adição, subtração, multiplicação e divisão.
 
 # Como funciona:
 
